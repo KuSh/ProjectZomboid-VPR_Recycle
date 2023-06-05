@@ -1,0 +1,47 @@
+ItemName_FR = {
+/***************************** Maps *****************************/
+    ItemName_Base.LouisvilleMap1 = "Carte de Louisville (1/9)",
+    ItemName_Base.LouisvilleMap2 = "Carte de Louisville (2/9)",
+    ItemName_Base.LouisvilleMap3 = "Carte de Louisville (3/9)",
+    ItemName_Base.LouisvilleMap4 = "Carte de Louisville (4/9)",
+    ItemName_Base.LouisvilleMap5 = "Carte de Louisville (5/9)",
+    ItemName_Base.LouisvilleMap6 = "Carte de Louisville (6/9)",
+    ItemName_Base.LouisvilleMap7 = "Carte de Louisville (7/9)",
+    ItemName_Base.LouisvilleMap8 = "Carte de Louisville (8/9)",
+    ItemName_Base.LouisvilleMap9 = "Carte de Louisville (9/9)",
+
+/***************************** Hygiene *****************************/
+	ItemName_Base.RippedSheets = "Lanières en tissu",
+	ItemName_Base.RippedSheetsDirty = "Lanières en tissu (sales)",
+	ItemName_Base.AlcoholRippedSheets = "Lanières en tissu (stérilisées)",
+
+/***************************** Farming *****************************/
+	ItemName_farming.BroccoliBagSeed = "Graines de brocolis (paquet)",
+	ItemName_farming.CabbageBagSeed = "Graine de choux (paquet)",
+	ItemName_farming.CarrotBagSeed = "Graines de carottes (paquet)",
+	ItemName_farming.PotatoBagSeed = "Graines de pommes de terre (paquet)",
+	ItemName_farming.RedRadishBagSeed = "Graines de radis (paquet)",
+	ItemName_farming.StrewberrieBagSeed = "Graines de fraises (paquet)",
+	ItemName_farming.TomatoBagSeed = "Graines de tomates (paquet)",
+
+	ItemName_Base.TrapCage 	= "Piège (cage)",
+	ItemName_Base.FishingNet = "Piège (nasse)",
+	ItemName_Base.BrokenFishingNet  = "Piège (nasse) (cassée)"
+	ItemName_Base.TrapMouse = "Piège (tapette à souris)",
+	ItemName_Base.TrapSnare = "Piège (collet)",
+	ItemName_Base.TrapStick = "Piège (bâtons)",
+	ItemName_Base.TrapBox 	= "Piège (boite)",
+	ItemName_Base.TrapCrate = "Piège (caisse)",
+
+/***************************** Vehicles *****************************/
+	ItemName_Base.RearCarDoorDouble1 = "Portière (arrière double)",
+	ItemName_Base.RearCarDoorDouble2 = "Portière (arrière double)",
+	ItemName_Base.RearCarDoorDouble3 = "Portière (arrière double)",
+
+/***************************** Electronics *****************************/
+
+/***************************** Others *****************************/
+
+/***************************** Wearables *****************************/
+	ItemName_Base.Necklace_DogTag = "Collier de plaques militaires",
+}
