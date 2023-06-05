@@ -1,0 +1,9 @@
+Recipes_FR = {
+  Recipe_Dismantle_Car_Hood = "Démonter le capot (avant)",
+  Recipe_Dismantle_Car_Trunk_Lid = "Démonter le capot (arrière)",
+  Recipe_Dismantle_Car_Gas_Tank = "Démonter le réservoir d'essence",
+  Recipe_Dismantle_Car_Brake = "Démonter le frein",
+  Recipe_Dismantle_Car_Suspension = "Démonter la suspension",
+  Recipe_Dismantle_Car_Muffler = "Démonter le silencieux",
+  Recipe_Dismantle_Car_Door = "Démonter la portière",
+}
