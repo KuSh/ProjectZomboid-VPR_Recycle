@@ -11,37 +11,37 @@ ItemName_FR = {
     ItemName_Base.LouisvilleMap9 = "Carte de Louisville (9/9)",
 
 /***************************** Hygiene *****************************/
-	ItemName_Base.RippedSheets = "LaniËres en tissu",
-	ItemName_Base.RippedSheetsDirty = "LaniËres en tissu (sales)",
-	ItemName_Base.AlcoholRippedSheets = "LaniËres en tissu (stÈrilisÈes)",
+    ItemName_Base.RippedSheets = "Lani√®res en tissu",
+    ItemName_Base.RippedSheetsDirty = "Lani√®res en tissu (sales)",
+    ItemName_Base.AlcoholRippedSheets = "Lani√®res en tissu (st√©rilis√©es)",
 
 /***************************** Farming *****************************/
-	ItemName_farming.BroccoliBagSeed = "Graines de brocolis (paquet)",
-	ItemName_farming.CabbageBagSeed = "Graine de choux (paquet)",
-	ItemName_farming.CarrotBagSeed = "Graines de carottes (paquet)",
-	ItemName_farming.PotatoBagSeed = "Graines de pommes de terre (paquet)",
-	ItemName_farming.RedRadishBagSeed = "Graines de radis (paquet)",
-	ItemName_farming.StrewberrieBagSeed = "Graines de fraises (paquet)",
-	ItemName_farming.TomatoBagSeed = "Graines de tomates (paquet)",
+    ItemName_farming.BroccoliBagSeed = "Graines de brocolis (paquet)",
+    ItemName_farming.CabbageBagSeed = "Graine de choux (paquet)",
+    ItemName_farming.CarrotBagSeed = "Graines de carottes (paquet)",
+    ItemName_farming.PotatoBagSeed = "Graines de pommes de terre (paquet)",
+    ItemName_farming.RedRadishBagSeed = "Graines de radis (paquet)",
+    ItemName_farming.StrewberrieBagSeed = "Graines de fraises (paquet)",
+    ItemName_farming.TomatoBagSeed = "Graines de tomates (paquet)",
 
-	ItemName_Base.TrapCage 	= "PiËge (cage)",
-	ItemName_Base.FishingNet = "PiËge (nasse)",
-	ItemName_Base.BrokenFishingNet  = "PiËge (nasse) (cassÈe)"
-	ItemName_Base.TrapMouse = "PiËge (tapette ‡ souris)",
-	ItemName_Base.TrapSnare = "PiËge (collet)",
-	ItemName_Base.TrapStick = "PiËge (b‚tons)",
-	ItemName_Base.TrapBox 	= "PiËge (boite)",
-	ItemName_Base.TrapCrate = "PiËge (caisse)",
+    ItemName_Base.TrapCage     = "Pi√®ge (cage)",
+    ItemName_Base.FishingNet = "Pi√®ge (nasse)",
+    ItemName_Base.BrokenFishingNet  = "Pi√®ge (nasse) (cass√©e)"
+    ItemName_Base.TrapMouse = "Pi√®ge (tapette √† souris)",
+    ItemName_Base.TrapSnare = "Pi√®ge (collet)",
+    ItemName_Base.TrapStick = "Pi√®ge (b√¢tons)",
+    ItemName_Base.TrapBox     = "Pi√®ge (boite)",
+    ItemName_Base.TrapCrate = "Pi√®ge (caisse)",
 
 /***************************** Vehicles *****************************/
-	ItemName_Base.RearCarDoorDouble1 = "PortiËre (arriËre double)",
-	ItemName_Base.RearCarDoorDouble2 = "PortiËre (arriËre double)",
-	ItemName_Base.RearCarDoorDouble3 = "PortiËre (arriËre double)",
+    ItemName_Base.RearCarDoorDouble1 = "Porti√®re (arri√®re double)",
+    ItemName_Base.RearCarDoorDouble2 = "Porti√®re (arri√®re double)",
+    ItemName_Base.RearCarDoorDouble3 = "Porti√®re (arri√®re double)",
 
 /***************************** Electronics *****************************/
 
 /***************************** Others *****************************/
 
 /***************************** Wearables *****************************/
-	ItemName_Base.Necklace_DogTag = "Collier de plaques militaires",
+    ItemName_Base.Necklace_DogTag = "Collier de plaques militaires",
 }
