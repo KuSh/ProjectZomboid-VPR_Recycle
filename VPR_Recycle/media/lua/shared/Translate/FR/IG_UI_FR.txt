@@ -1,0 +1,4 @@
+IG_UI_FR = {
+    IGUI_CraftCategory_Paints = "Peinture",
+    IGUI_CraftCategory_Recycling = "Recyclage",
+}
